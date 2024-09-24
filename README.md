@@ -25,11 +25,19 @@ Common Plot Types:
 image
 
 Line Plot
+
 Bar Plot Horizontal Bar Plot
+
 Histogram
+
 Box Plot
+
 Violin Plot
+
 Stacked Bar
+
 Scatter Plot
+
 Pie Plot
+
 Sub Plot
